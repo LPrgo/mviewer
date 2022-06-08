@@ -8,7 +8,7 @@ Développer un customControl
 ###########################
 
 Les **Customs Controls** permettent de créer des interactions entre l'utilisateur et un layer. Si on souhaite créer une nouvelle fonctionnalité en lien avec une couche particulière, c'est la solution à privilégier.
-Le mécanisme de customControl permet le développement à façon de solution nouvelle sans modifier le coeur de mviewer.
+Le mécanisme de customControl permet le développement de solutions nouvelles sans modifier le coeur de mviewer.
 
 .. admonition:: Convention
 
