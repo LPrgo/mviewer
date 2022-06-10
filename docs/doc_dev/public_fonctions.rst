@@ -78,10 +78,6 @@ Il existe déjà les fonctions suivantes :
               
         :return: Réordonne la légende selon l'affichage des couches sur la carte.
 
-    .. function:: orderLegendByMap()
-              
-        :return: Réordonne la légende en respectant l'affichage des couches sur la carte.
-
     .. function:: reorderLayer(layer, index)
               
         :param Object layer: Couche openLayer depuis la carte (e.g depuis mviewer.getLayer(id)).
