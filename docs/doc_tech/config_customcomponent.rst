@@ -100,7 +100,7 @@ Pour vous approprier facilement les composant, vous pouvez commencer par observe
 
 - Réaliser un graphique en 3D
 
-`Ce composant <https://kartenn.region-bretagne.fr/kartoviz/?config=demo/customcomponent.xml>`_ permet de créer un graphique en 3D avec des boutons et iterfaces de contrôle. Ce composant montre que l'on peut vraiment importer des librairies externes et afficher ce que l'on souhaite dans l'interface Mviewer.
+`Ce composant <https://kartenn.region-bretagne.fr/kartoviz/?config=demo/customcomponent.xml>`_ permet de créer un graphique en 3D avec des boutons et interfaces de contrôle. Ce composant montre que l'on peut vraiment importer des librairies externes et afficher ce que l'on souhaite dans l'interface Mviewer.
 
 - Filtrer les données dans une fenêtre flottante
 
