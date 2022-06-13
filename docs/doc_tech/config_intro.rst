@@ -15,7 +15,7 @@ Il est possible de créer n fichiers de configuration (config1.xml, config2.xml.
 
 Pour voir des **exemples d'applications et de fichiers de configuration XML**, rendez vous à cette page : `démos <http://kartenn.region-bretagne.fr/kartoviz/demo/>`_.
 
-En cliquant sur **Sources**, vous accèderez au fichier XML et le le bouton **Live!** vous permet de visualisation l'application.
+En cliquant sur **Sources**, vous accèderez au fichier XML et le bouton **Live!** vous permet de visualisation l'application.
 
 Structure du fichier de configuration
 --------------------------------------
