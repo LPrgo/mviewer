@@ -119,7 +119,7 @@ Paramètres pour gérer l'interrogation et la mise en forme de la fiche d'interr
 * ``queryable`` :guilabel:`studio` : Booléen stipulant est ce que la couche est intérrogeable via un GetFeatureInfo.
 * ``infoformat`` :guilabel:`studio` : Format du GetFeatureInfo. 2 formats sont supportés : text/html et application/vnd.ogc.gml. Le format application/vnd.ogc.gml est demandé pour l'utilisation de templates.
 * ``infohighlight`` : Booléen précisant si les features de la couche sont mises en surbrillance en interrogeant leurs informations, défaut = true. Si false un markeur est affiché. Les styles utilisés pour la mise en surbrillance peuvent être configurés (voir ":ref:`configstyles`").
-* ``featurecount`` :guilabel:`studio` : Nombre d'éléments maximun retournés lors de l'interrogation.
+* ``featurecount`` :guilabel:`studio` : Nombre d'éléments maximum retournés lors de l'interrogation.
 * ``fields`` :guilabel:`studio` :  Si les informations retournées par l'interrogation est au format GML, fields représente les attributs à parser pour générer la vignette.
 * ``aliases`` :guilabel:`studio` : Si les informations retournées par l'interrogation est au format GML, aliases représente le renommage des champs parsés.
 * ``fieldsjson`` : Liste des champs de type json. Avec ce paramètre, mviewer parse le contenu des champs spécifiés en JSON, ce qui permet ensuite d'exploiter ces valeurs dans des boucles de templates mustache  pour afficher une liste, un tableau...
