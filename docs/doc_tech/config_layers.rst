@@ -188,7 +188,7 @@ Autres paramètres
         * ``Valeur renseignée``: le fichier JavaScript (.js) correspondant à l'url est chargé
         * ``Valeur non renseignée``: l'url est fabriquée à partir de l'ID de la couche (ex: custom:ayers/layerid.js)
 
-* ``customcontrolpath`` : Texte Précisant le répertoire hébergeant les fichiers nécessaires au contrôle. Dans ce pépertoire, il faut déposer un fichier js et un fichier html ayant pour nom l'id de la couche. La structure du js doit être la suivante : (../controls/epci.js). Valeur par défaut = customcontrols.
+* ``customcontrolpath`` : Texte Précisant le répertoire hébergeant les fichiers nécessaires au contrôle. Dans ce répertoire, il faut déposer un fichier js et un fichier html ayant pour nom l'id de la couche. La structure du js doit être la suivante : (../controls/epci.js). Valeur par défaut = customcontrols.
 * ``secure`` :guilabel:`studio` : Texte précisant le niveau de protection de la couche Les valeurs possibles sont :
     * ``public`` : (ou paramètre absent), l'accès à la couche est public
     * ``global`` : l'accès à la couche est contrainte par le CAS geoserver. Un test est effectué pour savoir si la couche est accessible. Si ce n'est pas le cas, la couche est retirée du panneau et de la carte.
