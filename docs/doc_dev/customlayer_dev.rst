@@ -4,7 +4,7 @@
 
 .. _customlayerdev:
 
-Appronfondir - Custom Layer
+Approfondir - Custom Layer
 ===========================
 
 Les **Customs Layers** permettent de personnaliser la représentation et les interactions que l'on a avec les layers de façon plus avancée que ce que l'on peut faire avec le fichier de configuration XML.
