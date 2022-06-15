@@ -126,7 +126,7 @@ Pour utiliser cette classe il faut modifier le fichier Javascript (dans cet exem
         │   └── ma_carte1.xml
         └── ma_carte2
 
-Ce fichier définit une classe qui étend (est un héritier de la classe) la classe ``AdvancedCustomControl`` :
+Ce fichier définit une classe qui étend (est un héritier de) la classe ``AdvancedCustomControl`` :
 
 .. code-block:: javascript
   :linenos:
