@@ -46,7 +46,7 @@ présent dans l'arborescence suivante::
         └── ma_carte2
 
 Pour cela il faut donc définir les deux fonctions en les déclarant avec le mot-clé **const** pour les rendre inaccessibles depuis le reste de l'application indépendamment du custom control dans lequel elles
-sont définies, puis il faudra les donner en paramètre à la classe ``CustomControl`` vue plutôt.
+sont définies, puis il faudra les donner en paramètre à la classe ``CustomControl`` vue plus tôt.
 
 .. code-block:: javascript
   :linenos:
