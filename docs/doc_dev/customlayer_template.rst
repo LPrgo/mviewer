@@ -36,7 +36,7 @@ Rappels sur le fonctionnement des templates
 Les templates `Mustache <https://mustache.github.io/>`_ (format .mst) permettent d'afficher de façon standard ou personnalisée les informations d'une entités géographique visible sur la carte.
 L'utilisateur cliquera alors sur la carte pour avoir des informations sur l'entité ciblée.
 
-Au clic, `le code mviewer <https://github.com/geobretagne/mviewer/blob/master/js/info.js#L304>`_ réalise une requête (`getFeatureInfo <https://docs.geoserver.org/stable/en/user/services/wms/reference.html#getfeatureinfo>`_) vers le serveur cartographique utilisé (e.g geoserver) afin d'iterroger la couche et obtenir les informations sur les entités localisées sous le clic.
+Au clic, `le code mviewer <https://github.com/geobretagne/mviewer/blob/master/js/info.js#L304>`_ réalise une requête (`getFeatureInfo <https://docs.geoserver.org/stable/en/user/services/wms/reference.html#getfeatureinfo>`_) vers le serveur cartographique utilisé (e.g geoserver) afin d'interroger la couche et obtenir les informations sur les entités localisées sous le clic.
 
 .. note::
     Les templates utilisés sont localisés dans le `fichier mviewer/js/templates.js <https://github.com/geobretagne/mviewer/blob/master/js/templates.js>`_.
