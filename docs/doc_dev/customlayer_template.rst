@@ -59,7 +59,7 @@ Vous rencontrerez ce problème si vous utilisez une représentation type cluster
 Vous devrez donc organiser avec le JavaScript les informations ``JSON`` à fournir au template .mst afin de l'afficher correctement.
 
 Pour réaliser cette manipulation de données et préparer le ``JSON`` à fournir au template, vous pouvez ajouter du JavaScript dans le template via la balise HTML <script>.
-Cette solution rajoute de la complexité dans le code et alourdir considérablement le fichier .mst.
+Cette solution rajoute de la complexité dans le code et alourdit considérablement le fichier .mst.
 
 Une autre solution éxiste via l'utilisons d'une fonction personnalisée que nous allons expliquer dans la section suivante.
 
