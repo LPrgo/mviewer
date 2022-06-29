@@ -33,7 +33,7 @@ Ce module d'extension permet de répondre à deux cas d'usage :
 **Paramètres pour les extensions de type component**
 
 * ``id``: paramètre obligatoire qui correspond au nom du dossier du composant.
-* ``path``: paramètre obligatoire qui correspond à l'URL vers le dossier contenant la structure su composant.
+* ``path``: paramètre obligatoire qui correspond à l'URL vers le dossier contenant la structure du composant.
 
 
 **Exemple**
