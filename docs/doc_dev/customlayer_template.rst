@@ -51,7 +51,7 @@ Si le résultat de la requête contient bien des informations à afficher, alors
 Limite avec un custom layer
 ----------------------------
 
-Il est possible que le template à afficher se base sur des informations (``JSON``) qui ne sont pas fournies par les informations fournies par le serveur cartographique.
+Il est possible que le template à afficher se base sur des informations (``JSON``) qui ne sont pas fournies par le serveur cartographique.
 C'est le cas par exemple si vous récupérez des données statistiques et que vous souhaitez afficher des données agrégées ou calculées.
 
 Vous rencontrerez ce problème si vous utilisez une représentation type cluster comme `ici <https://github.com/geobretagne/mviewer/blob/master/customlayers/cluster.js>`_.
